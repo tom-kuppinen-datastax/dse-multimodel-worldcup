@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {"id": "England", "group": 1},
+    {"id": "World Cup 1966", "group": 2},
+    {"id": "World Cup 1970", "group": 2}
+  ],
+  "links": [
+    {"source": "England", "target": "World Cup 1966", "value": 1},
+    {"source": "England", "target": "World Cup 1970", "value": 8}
+  ]
+}

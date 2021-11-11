@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "dseg:/country/england",
+      "group": 2
+    },
+    {
+      "id": "dseg:/tournament/worldcup_2010",
+      "group": 1
+    },
+    {
+      "id": "dseg:/tournament/worldcup_2002",
+      "group": 3
+    },
+    {
+      "id": "dseg:/tournament/worldcup_1990",
+      "group": 4
+    },
+    {
+      "id": "dseg:/tournament/worldcup_1982",
+      "group": 1
+    },
+    {
+      "id": "dseg:/tournament/worldcup_1970",
+      "group": 1
+    },
+    {
+      "id": "dseg:/tournament/worldcup_2014",
+      "group": 1
+    },
+    {
+      "id": "dseg:/tournament/worldcup_2006",
+      "group": 1
+    },
+    {
+      "id": "dseg:/tournament/worldcup_1986",
+      "group": 1
+    },
+    {
+      "id": "dseg:/tournament/worldcup_2018",
+      "group": 1
+    },
+    {
+      "id": "dseg:/tournament/worldcup_1966",
+      "group": 1
+    },
+    {
+      "id": "dseg:/tournament/worldcup_1998",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_2006",
+      "value": 3
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_1986",
+      "value": 10
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_2018",
+      "value": 6
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_1990",
+      "value": 10
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_2002",
+      "value": 10
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_1970",
+      "value": 20
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_1982",
+      "value": 10
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_2014",
+      "value": 10
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_1966",
+      "value": 10
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_1998",
+      "value": 10
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_1966",
+      "value": 10
+    },
+    {
+      "source": "dseg:/country/england",
+      "target": "dseg:/tournament/worldcup_2010",
+      "value": 10
+    }
+  ]
+}
