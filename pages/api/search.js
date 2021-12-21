@@ -1,4 +1,4 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+
 import {searchPlayers} from "../../lib/cqlQuery";
 import {searchCountries} from "../../lib/cqlQuery";
 

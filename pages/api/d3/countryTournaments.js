@@ -29,7 +29,6 @@ export default async function handler(req, res) {
         );
         i++;
         }
-        //\\console.log(e)
     );
     resp = {"nodes" : nodes, "links": edges};
     res.status = 200;

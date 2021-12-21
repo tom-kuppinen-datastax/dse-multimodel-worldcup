@@ -17,6 +17,17 @@ The data used in this demo is largely from 538, source [GitHub](https://github.c
    2. [Next.js](https://nextjs.org/docs)
    3. [DataStax node.js driver](https://docs.datastax.com/en/developer/nodejs-driver/4.6/)
 
+##Development App Configuration
+If you are using the development Next.js app, you will need to create an .env.local file to store your connection information.
+
+(*sample*)
+```shell
+DSE_CONTACT_POINTS: YOUR_SERVER_DNS_NAME
+DSE_KEYSPACE = 'WORLD_CUP' 
+DSE_LOCAL_DATA_CENTER = 'dc1'
+```
+
+
 ##Load Data
 Within the data directory there are data files you can use to load the graph schema.  The goal of this data is provide a comparison of performances in World Cup play since 1966 and was created by the team at 538.  Original source can be found within their [github repository](https://github.com/fivethirtyeight/data/blob/master/world-cup-comparisons/README.md).  
 

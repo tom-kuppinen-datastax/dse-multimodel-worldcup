@@ -11,7 +11,7 @@ const headerStyle = {
 const catalogLinkStyle = {
     float: "right"
 }
-const headerImgUrl = "https://www.datastax.com/_next/static/images/logo-0d118cac08aa7b099c0a6988c32ec1f6.svg";
+const headerImgUrl = "/logo.png";
 
 const Header = () => (
     <div className="Header" style={headerStyle}>
